@@ -24,7 +24,33 @@
 
 ---
 
+## Скиллы
+
+### frontend-design
+Скилл для создания уникальных, высококачественных фронтенд-интерфейсов. Главные принципы:
+- **Никакого AI-слопа** — избегать Inter, Roboto, фиолетовых градиентов, generic layouts
+- **Смелая эстетика** — выбрать направление (brutalist, retro-futuristic, luxury, playful) и коммитнуться
+- **Типографика** — уникальные шрифты, не дефолтные
+- **Motion** — анимации на входе, hover states, staggered reveals
+- **Composition** — асимметрия, overlap, diagonal flow, negative space
+- **Backgrounds** — текстуры, градиенты, noise, geometric patterns
+
+Путь: `~/.openclaw/workspace/skills/frontend-design/SKILL.md`
+
+---
+
 ## Проекты
+
+### Wall of Love (walloflove)
+- **Статус:** MVP в разработке (2026-02-18)
+- **Концепция:** Парсит отзывы с Яндекс Карт и 2ГИС → красивый виджет для вставки на сайт клиента
+- **НЕ формы сбора!** Кирилл чётко это обозначил
+- Путь: `/Users/karavan/Developer/walloflove/`
+- Стек: Rails 7.2, Ruby 3.3.7 (rbenv), PostgreSQL 16, Tailwind, Playwright (скрейпинг)
+- Демо: `demo@walloflove.ru` / `password123`, порт 4000
+- Яндекс парсинг работает, 2ГИС нужен residential proxy
+- Embed-виджет: Shadow DOM, карусель, premium дизайн
+- Субагенты: только `model: "opus"` (sonnet-4-6 не работает)
 
 ### Beflora (beflora.ru)
 - **Статус:** Мигрирован на Timeweb (2026-02-15), ждёт переключения DNS
