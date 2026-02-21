@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Стоматология Smile Sfera",
+    "address": "Малый Спасоглинищевский пер., 3, метро Китай город, метро Лубянка, метро Театральная",
+    "phone": null,
+    "website": "https://yastatic.net",
+    "rating": null,
+    "reviewCount": null,
+    "source": "yandex_maps",
+    "parsedAt": "2026-02-21T08:52:49.647Z"
+  },
+  {
+    "name": "iOrtho",
+    "address": "Луков пер., 10",
+    "phone": null,
+    "website": null,
+    "rating": null,
+    "reviewCount": null,
+    "source": "yandex_maps",
+    "parsedAt": "2026-02-21T08:52:50.683Z"
+  },
+  {
+    "name": "Viva Smile",
+    "address": "Москва, пер. Васнецова, 3",
+    "phone": null,
+    "website": null,
+    "rating": null,
+    "reviewCount": null,
+    "source": "yandex_maps",
+    "parsedAt": "2026-02-21T08:52:51.734Z"
+  },
+  {
+    "name": "Хай Гард Клиник",
+    "address": "Москва, Климентовский пер., 2",
+    "phone": null,
+    "website": null,
+    "rating": null,
+    "reviewCount": null,
+    "source": "yandex_maps",
+    "parsedAt": "2026-02-21T08:52:52.767Z"
+  },
+  {
+    "name": "Стоматология 31",
+    "address": "Новинский бул., 31, этаж 2",
+    "phone": null,
+    "website": null,
+    "rating": null,
+    "reviewCount": null,
+    "source": "yandex_maps",
+    "parsedAt": "2026-02-21T08:52:53.800Z"
+  }
+]

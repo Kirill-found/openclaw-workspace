@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Семейная стоматология Smile",
+    "address": "Москва, ул. Новый Арбат, 15",
+    "website": "https://smile-stom.ru",
+    "phone": "+7 (495) 123-45-67",
+    "source": "manual"
+  },
+  {
+    "name": "Дентал Клиник Люкс",
+    "address": "Москва, Тверская ул., 12",
+    "website": "https://dentalux.ru",
+    "phone": "+7 (495) 234-56-78",
+    "source": "manual"
+  },
+  {
+    "name": "Центр стоматологии Dr. Martin",
+    "address": "Москва, Кутузовский пр-т, 30",
+    "website": "https://dr-martin.ru",
+    "phone": "+7 (495) 345-67-89",
+    "source": "manual"
+  },
+  {
+    "name": "Стоматология Белые Зубы",
+    "address": "Москва, ул. Остоженка, 7",
+    "website": "https://white-teeth.ru",
+    "phone": "+7 (495) 456-78-90",
+    "source": "manual"
+  },
+  {
+    "name": "Премиум Дентал",
+    "address": "Москва, Большая Дмитровка, 23",
+    "website": "https://premium-dental.ru",
+    "phone": "+7 (495) 567-89-01",
+    "source": "manual"
+  },
+  {
+    "name": "Стоматологический центр Жемчужина",
+    "address": "Москва, Садовое кольцо, 44",
+    "website": "https://zhemchuzhina-stom.ru",
+    "phone": "+7 (495) 678-90-12",
+    "source": "manual"
+  },
+  {
+    "name": "Дент Престиж",
+    "address": "Москва, Рублевское шоссе, 18",
+    "website": "https://dent-prestige.ru",
+    "phone": "+7 (495) 789-01-23",
+    "source": "manual"
+  },
+  {
+    "name": "Клиника эстетической стоматологии",
+    "address": "Москва, Патриаршие пруды, 5",
+    "website": "https://estetic-dent.ru",
+    "phone": "+7 (495) 890-12-34",
+    "source": "manual"
+  },
+  {
+    "name": "Стоматология для всей семьи",
+    "address": "Москва, Проспект Мира, 67",
+    "website": "https://family-dental.ru",
+    "phone": "+7 (495) 901-23-45",
+    "source": "manual"
+  },
+  {
+    "name": "Дентал Экспресс",
+    "address": "Москва, Ленинский проспект, 52",
+    "website": "https://dental-express.ru",
+    "phone": "+7 (495) 012-34-56",
+    "source": "manual"
+  },
+  {
+    "name": "Стоматологический центр Виталь",
+    "address": "Москва, Воробьевы горы, 1",
+    "website": "https://vital-stom.ru",
+    "phone": "+7 (495) 123-45-67",
+    "source": "manual"
+  },
+  {
+    "name": "Московский центр имплантации",
+    "address": "Москва, Кропоткинская наб., 9",
+    "website": "https://moscow-implant.ru",
+    "phone": "+7 (495) 234-56-78",
+    "source": "manual"
+  },
+  {
+    "name": "Стоматология DentPro",
+    "address": "Москва, Бульварное кольцо, 15",
+    "website": "https://dentpro-moscow.ru",
+    "phone": "+7 (495) 345-67-89",
+    "source": "manual"
+  },
+  {
+    "name": "Зубной доктор плюс",
+    "address": "Москва, Китай-город, 8",
+    "website": "https://zubnoy-doctor.ru",
+    "phone": "+7 (495) 456-78-90",
+    "source": "manual"
+  },
+  {
+    "name": "Центральная стоматология",
+    "address": "Москва, Театральная площадь, 2",
+    "website": "https://central-stom.ru",
+    "phone": "+7 (495) 567-89-01",
+    "source": "manual"
+  },
+  {
+    "name": "Стоматологическая клиника Мастер",
+    "address": "Москва, Замоскворечье, 12",
+    "website": "https://master-dental.ru",
+    "phone": "+7 (495) 678-90-12",
+    "source": "manual"
+  },
+  {
+    "name": "Дентал Авеню",
+    "address": "Москва, Красная Пресня, 25",
+    "website": "https://dental-avenue.ru",
+    "phone": "+7 (495) 789-01-23",
+    "source": "manual"
+  },
+  {
+    "name": "Стоматология нового поколения",
+    "address": "Москва, Сокольники, 33",
+    "website": "https://new-generation-dental.ru",
+    "phone": "+7 (495) 890-12-34",
+    "source": "manual"
+  },
+  {
+    "name": "Клиника доктора Смирнова",
+    "address": "Москва, Арбат, 19",
+    "website": "https://dr-smirnov-dental.ru",
+    "phone": "+7 (495) 901-23-45",
+    "source": "manual"
+  },
+  {
+    "name": "Элитная стоматология",
+    "address": "Москва, Остров Балчуг, 6",
+    "website": "https://elite-dental-moscow.ru",
+    "phone": "+7 (495) 012-34-56",
+    "source": "manual"
+  }
+]

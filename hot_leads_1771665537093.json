@@ -1,0 +1,84 @@
+[
+  {
+    "name": "Семейная стоматология Smile",
+    "address": "Москва, ул. Новый Арбат, 15",
+    "website": "https://smile-stom.ru",
+    "phone": "+7 (495) 123-45-67",
+    "source": "manual",
+    "hasWebsite": true,
+    "hasYandexWidget": false,
+    "has2gisWidget": false,
+    "hasOtherReviewWidgets": false,
+    "otherWidgets": [],
+    "emails": [
+      "info@smile-stom.ru"
+    ],
+    "additionalPhones": [
+      "+74953158391",
+      "+74953155109"
+    ],
+    "potential": "hot",
+    "analysis": "analyzed",
+    "analyzedAt": "2026-02-21T09:17:35.692Z"
+  },
+  {
+    "name": "Стоматология Белые Зубы",
+    "address": "Москва, ул. Остоженка, 7",
+    "website": "https://white-teeth.ru",
+    "phone": "+7 (495) 456-78-90",
+    "source": "manual",
+    "hasWebsite": true,
+    "hasYandexWidget": false,
+    "has2gisWidget": false,
+    "hasOtherReviewWidgets": false,
+    "otherWidgets": [],
+    "emails": [
+      "mail@webadresa.ru"
+    ],
+    "additionalPhones": [],
+    "potential": "hot",
+    "analysis": "analyzed",
+    "analyzedAt": "2026-02-21T09:17:53.116Z"
+  },
+  {
+    "name": "Дентал Экспресс",
+    "address": "Москва, Ленинский проспект, 52",
+    "website": "https://dental-express.ru",
+    "phone": "+7 (495) 012-34-56",
+    "source": "manual",
+    "hasWebsite": true,
+    "hasYandexWidget": false,
+    "has2gisWidget": false,
+    "hasOtherReviewWidgets": false,
+    "otherWidgets": [],
+    "emails": [
+      "info@dental-express.ru"
+    ],
+    "additionalPhones": [
+      "+7(908)998-01-16",
+      "+79089980116"
+    ],
+    "potential": "hot",
+    "analysis": "analyzed",
+    "analyzedAt": "2026-02-21T09:18:20.330Z"
+  },
+  {
+    "name": "Стоматологическая клиника Мастер",
+    "address": "Москва, Замоскворечье, 12",
+    "website": "https://master-dental.ru",
+    "phone": "+7 (495) 678-90-12",
+    "source": "manual",
+    "hasWebsite": true,
+    "hasYandexWidget": false,
+    "has2gisWidget": false,
+    "hasOtherReviewWidgets": false,
+    "otherWidgets": [],
+    "emails": [
+      "master-dental2011@mail.ru"
+    ],
+    "additionalPhones": [],
+    "potential": "hot",
+    "analysis": "analyzed",
+    "analyzedAt": "2026-02-21T09:18:47.068Z"
+  }
+]
