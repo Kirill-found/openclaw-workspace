@@ -1,0 +1,1059 @@
+[
+  {
+    "name": "World Class Вишневый сад",
+    "address": "ул. Мосфильмовская, д.1 Б, м. Ломоносовский проспект",
+    "phone": "+7 (495) 788-00-00",
+    "website": "https://www.worldclass.ru/clubs/vishnevyi-sad/detail/",
+    "rating": "N/A"
+  },
+  {
+    "name": "World Class Жуковка",
+    "address": "МО, дер. Жуковка, ул. Ильинский Подъезд, с1",
+    "phone": "+7 (495) 788-00-00",
+    "website": "https://www.worldclass.ru/clubs/zhukovka/detail/",
+    "rating": "N/A"
+  },
+  {
+    "name": "World Class Романов",
+    "address": "Романов переулок, 4с2, м. Арбатская",
+    "phone": "+7 (495) 788-00-00",
+    "website": "https://www.worldclass.ru/clubs/romanov/detail/",
+    "rating": "N/A"
+  },
+  {
+    "name": "World Class RED7",
+    "address": "пр. Академика Сахарова, 7, м. Красные ворота",
+    "phone": "+7 (495) 788-00-00",
+    "website": "https://www.worldclass.ru/clubs/red7/detail/",
+    "rating": "N/A"
+  },
+  {
+    "name": "World Class RedSide",
+    "address": "ул. Сергея Макеева, 9с5, м. Улица 1905 года",
+    "phone": "+7 (495) 788-00-00",
+    "website": "https://www.worldclass.ru/clubs/redside/detail/",
+    "rating": "N/A"
+  },
+  {
+    "name": "World Class Алексеевская",
+    "address": "ул. Маломосковская, вл14, м. Алексеевская",
+    "phone": "+7 (495) 788-00-00",
+    "website": "https://www.worldclass.ru/clubs/alekseevskaya/detail/",
+    "rating": "60"
+  },
+  {
+    "name": "World Class Аминьевский",
+    "address": "Аминьевское шоссе, 6, МФК Kvartal West, 5 этаж, м. Аминьевская",
+    "phone": "+7 (495) 788-00-00",
+    "website": "https://www.worldclass.ru/clubs/aminevskiy/detail/",
+    "rating": "N/A"
+  },
+  {
+    "name": "World Class Ботанический Сад",
+    "address": "ул. Вильгельма Пика, 16, МФК «Хуамин», 4 этаж, м. Ботанический сад",
+    "phone": "+7 (495) 788-00-00",
+    "website": "https://www.worldclass.ru/clubs/botanicheskiy-sad/detail/",
+    "rating": "80"
+  },
+  {
+    "name": "World Class Власова",
+    "address": "ул. Архитектора Власова, 22, м. Новые Черемушки",
+    "phone": "+7 (495) 788-00-00",
+    "website": "https://www.worldclass.ru/clubs/vlasova/detail/",
+    "rating": "N/A"
+  },
+  {
+    "name": "World Class Город Столиц",
+    "address": "Пресненская наб., 8с1, Москва-Сити, башня «Город Столиц», м. Деловой центр",
+    "phone": "+7 (495) 788-00-00",
+    "website": "https://www.worldclass.ru/clubs/gorod-stolits/detail/",
+    "rating": "N/A"
+  },
+  {
+    "name": "World Class Житная",
+    "address": "ул. Житная, 14с2, м. Октябрьская",
+    "phone": "+7 (495) 788-00-00",
+    "website": "https://www.worldclass.ru/clubs/zhitnaya/detail/",
+    "rating": "N/A"
+  },
+  {
+    "name": "World Class Капитолий",
+    "address": "проспект Вернадского, 6, м. Университет",
+    "phone": "+7 (495) 788-00-00",
+    "website": "https://www.worldclass.ru/clubs/kapitoliy/detail/",
+    "rating": "N/A"
+  },
+  {
+    "name": "World Class Каширский",
+    "address": "Каширское шоссе, 61Г, м. Домодедовская",
+    "phone": "+7 (495) 788-00-00",
+    "website": "https://www.worldclass.ru/clubs/kashirskiy/detail/",
+    "rating": "N/A"
+  },
+  {
+    "name": "World Class Кунцево",
+    "address": "ул. Ивана Франко, 16, м. Кунцевская",
+    "phone": "+7 (495) 788-00-00",
+    "website": "https://www.worldclass.ru/clubs/kuntsevo/detail/",
+    "rating": "N/A"
+  },
+  {
+    "name": "World Class Ленинский",
+    "address": "Ленинский проспект, 109 (ТРЦ «Рио»), м. Проспект Вернадского",
+    "phone": "+7 (495) 788-00-00",
+    "website": "https://www.worldclass.ru/clubs/leninskiy/detail/",
+    "rating": "N/A"
+  },
+  {
+    "name": "World Class Метрополис",
+    "address": "Ленинградское шоссе, 16Ас8, м. Войковская",
+    "phone": "+7 (495) 788-00-00",
+    "website": "https://www.worldclass.ru/clubs/metropolis/detail/",
+    "rating": "N/A"
+  },
+  {
+    "name": "World Class Наметкина",
+    "address": "ул. Наметкина, 6к1, м. Новые Черемушки",
+    "phone": "+7 (495) 788-00-00",
+    "website": "https://www.worldclass.ru/clubs/nametkina/detail/",
+    "rating": "N/A"
+  },
+  {
+    "name": "World Class Оружейный",
+    "address": "Оружейный переулок, 41, м. Маяковская",
+    "phone": "+7 (495) 788-00-00",
+    "website": "https://www.worldclass.ru/clubs/oruzheinyi/detail/",
+    "rating": "N/A"
+  },
+  {
+    "name": "World Class Павлово",
+    "address": "Истринский р-он, с/п. Павло-Слободское, дер. Новинки, 115с9",
+    "phone": "+7 (495) 788-00-00",
+    "website": "https://www.worldclass.ru/clubs/pavlovo/detail/",
+    "rating": "N/A"
+  },
+  {
+    "name": "World Class Пресня",
+    "address": "ул. Климашкина, 17с2, м. Улица 1905 года",
+    "phone": "+7 (495) 788-00-00",
+    "website": "https://www.worldclass.ru/clubs/presnya/detail/",
+    "rating": "N/A"
+  },
+  {
+    "name": "World Class Речной",
+    "address": "ул. Флотская, д.7, стр.1, 4 этаж, м. Речной Вокзал",
+    "phone": "+7 (495) 788-00-00",
+    "website": "https://www.worldclass.ru/clubs/rechnoy/detail/",
+    "rating": "N/A"
+  },
+  {
+    "name": "World Class Рябиновая",
+    "address": "ул. Рябиновая, 3с6 (ЖК «КутузовGRAD I»), Можайский район, м. Славянский бульвар",
+    "phone": "+7 (495) 788-00-00",
+    "website": "https://www.worldclass.ru/clubs/ryabinovaya/detail/",
+    "rating": "N/A"
+  },
+  {
+    "name": "World Class Символ",
+    "address": "ул. Крузенштерна, д. 12, корп. 3, м. Площадь Ильича",
+    "phone": "+7 (495) 788-00-00",
+    "website": "https://www.worldclass.ru/clubs/simvol/detail/",
+    "rating": "N/A"
+  },
+  {
+    "name": "World Class Строгино",
+    "address": "ул. Кулакова, 20к1, м. Строгино",
+    "phone": "+7 (495) 788-00-00",
+    "website": "https://www.worldclass.ru/clubs/strogino/detail/",
+    "rating": "N/A"
+  },
+  {
+    "name": "World Class Тверская",
+    "address": "ул. Большая Грузинская, 69, м. Белорусская",
+    "phone": "+7 (495) 788-00-00",
+    "website": "https://www.worldclass.ru/clubs/tverskaya/detail/",
+    "rating": "N/A"
+  },
+  {
+    "name": "World Class Триколор",
+    "address": "Проспект Мира, 188Бк2, м. ВДНХ",
+    "phone": "+7 (495) 191-09-14",
+    "website": "https://www.worldclass.ru/clubs/trikolor/detail/",
+    "rating": "60"
+  },
+  {
+    "name": "World Class Триумф",
+    "address": "Чапаевский переулок, 3, м. Аэропорт",
+    "phone": "+7 (495) 788-00-00",
+    "website": "https://www.worldclass.ru/clubs/triumf/detail/",
+    "rating": "N/A"
+  },
+  {
+    "name": "World Class Тульская",
+    "address": "Варшавское шоссе, 12А, м. Тульская",
+    "phone": "+7 (495) 788-00-00",
+    "website": "https://www.worldclass.ru/clubs/tulskaya/detail/",
+    "rating": "N/A"
+  },
+  {
+    "name": "World Class Удальцова",
+    "address": "Ленинский проспект д.90/3, м. Новаторская",
+    "phone": "+7 (495) 788-00-00",
+    "website": "https://www.worldclass.ru/clubs/udaltsova/detail/",
+    "rating": "N/A"
+  },
+  {
+    "name": "World Class Хамовники",
+    "address": "ул. Усачёва, 13, корп. Г, м. Фрунзенская",
+    "phone": "+7 (495) 788-00-00",
+    "website": "https://www.worldclass.ru/clubs/hamovniki/detail/",
+    "rating": "N/A"
+  },
+  {
+    "name": "World Class Ховрино",
+    "address": "ул. Дыбенко, д. 7/1, стр. 1, ТЦ Discovery, м. Ховрино",
+    "phone": "+7 (495) 788-00-00",
+    "website": "https://www.worldclass.ru/clubs/khovrino/detail/",
+    "rating": "N/A"
+  },
+  {
+    "name": "World Class Шереметьевская",
+    "address": "12-й проезд Марьиной Рощи, вл9с2, м. Марьина Роща",
+    "phone": "+7 (495) 788-00-00",
+    "website": "https://www.worldclass.ru/clubs/sheremetevskaya/detail/",
+    "rating": "N/A"
+  },
+  {
+    "name": "World Class Щелковский",
+    "address": "Щелковское ш., д.75, ТРЦ «Щелковский», м. Щелковская",
+    "phone": "+7 (495) 788-00-00",
+    "website": "https://www.worldclass.ru/clubs/shchyelkovskiy/detail/",
+    "rating": "N/A"
+  },
+  {
+    "name": "World Class Ярцевская",
+    "address": "ул. Ярцевская, вл19, м. Молодёжная",
+    "phone": "+7 (495) 788-00-00",
+    "website": "https://www.worldclass.ru/clubs/yartsevskaya/detail/",
+    "rating": "N/A"
+  },
+  {
+    "name": "World Class Варшавка",
+    "address": "Варшавское шоссе, 122А, м. Южная",
+    "phone": "+7 (495) 788-00-00",
+    "website": "https://www.worldclass.ru/clubs/varshavka/detail/",
+    "rating": "N/A"
+  },
+  {
+    "name": "World Class Митино",
+    "address": "Пятницкое шоссе, 29к5, м. Митино",
+    "phone": "+7 (495) 788-00-00",
+    "website": "https://www.worldclass.ru/clubs/mitino/detail/",
+    "rating": "N/A"
+  },
+  {
+    "name": "World Class Севастопольский",
+    "address": "Севастопольский проспект, 28Г, м. Севастопольская",
+    "phone": "+7 (495) 191-09-14",
+    "website": "https://www.worldclass.ru/clubs/sevastopolskiy/detail/",
+    "rating": "80"
+  },
+  {
+    "name": "Spirit Fitness Автозаводская",
+    "address": "ТРЦ Глобал Молл, ул. Ленинская Слобода, д. 26, стр. 2, м. Автозаводская",
+    "phone": "N/A",
+    "website": "https://spiritfit.ru/clubs/avtozavodskaya/",
+    "rating": "N/A"
+  },
+  {
+    "name": "Spirit Fitness Аминьевская",
+    "address": "ТЦ ОМА, Очаковское шоссе, 3А/8, 3 этаж, м. Аминьевская",
+    "phone": "N/A",
+    "website": "https://spiritfit.ru/clubs/matveevskiy/",
+    "rating": "N/A"
+  },
+  {
+    "name": "Spirit Fitness Технопарк",
+    "address": "просп. Андропова, 8, 4-й этаж, ТРЦ \"Мегаполис\"",
+    "phone": "N/A",
+    "website": "https://spiritfit.ru/clubs/technopark/",
+    "rating": "N/A"
+  },
+  {
+    "name": "Spirit Fitness Алтуфьево",
+    "address": "Алтуфьевское шоссе, д. 24, к. 1, ТЦ «Улей», 2-й этаж",
+    "phone": "N/A",
+    "website": "https://spiritfit.ru/clubs/altufevo/",
+    "rating": "N/A"
+  },
+  {
+    "name": "Spirit Fitness Прокшино",
+    "address": "ТЦ «Сиеста», вн.тер.г. поселение Сосенское, ул. Николо-Хованская, 7с1",
+    "phone": "N/A",
+    "website": "https://spiritfit.ru/clubs/prokshino/",
+    "rating": "N/A"
+  },
+  {
+    "name": "Spirit Fitness Котельники",
+    "address": "ЖК «Оранж Парк», ул. Сосновая, 5",
+    "phone": "N/A",
+    "website": "https://spiritfit.ru/clubs/skoro-kotelniki/",
+    "rating": "N/A"
+  },
+  {
+    "name": "Spirit Fitness Гагаринский",
+    "address": "ул. Вавилова, д. 3, ТРЦ \"Гагаринский\"",
+    "phone": "N/A",
+    "website": "https://spiritfit.ru/clubs/gagarinskiy/",
+    "rating": "N/A"
+  },
+  {
+    "name": "Spirit Fitness Рассказовка",
+    "address": "поселение Внуковское, ул. Корнея Чуковского, д. 2, ТЦ Сказка, 3 этаж",
+    "phone": "N/A",
+    "website": "https://spiritfit.ru/clubs/metro-br-rasskazovka/",
+    "rating": "N/A"
+  },
+  {
+    "name": "Spirit Fitness Севастопольский",
+    "address": "Севастопольский пр-т, д. 28, корп 2, 2-й этаж",
+    "phone": "N/A",
+    "website": "https://spiritfit.ru/clubs/club-sevastopolskiy/",
+    "rating": "N/A"
+  },
+  {
+    "name": "Spirit Fitness Федерация",
+    "address": "Москва-Сити (Башня Федерация), Пресненская наб., д. 12, -4-й этаж",
+    "phone": "N/A",
+    "website": "https://spiritfit.ru/clubs/bashnia-federatsia/",
+    "rating": "N/A"
+  },
+  {
+    "name": "Spirit Fitness Войковская",
+    "address": "Старопетровский пр., 1, стр. 2, ТЦ Baby Store, 1-й этаж, м. Войковская",
+    "phone": "N/A",
+    "website": "https://spiritfit.ru/clubs/metro-voykovskaya/",
+    "rating": "N/A"
+  },
+  {
+    "name": "Spirit Fitness Беляево",
+    "address": "ул. Миклухо-Маклая, 18, к. 2 ТЦ «Беляево», 2-й этаж, м. Беляево",
+    "phone": "N/A",
+    "website": "https://spiritfit.ru/clubs/metro-belyaevo/",
+    "rating": "N/A"
+  },
+  {
+    "name": "Spirit Fitness Марьина Роща",
+    "address": "Шереметьевская ул., 6 корпус 1, эт. -1, м. Марьина Роща",
+    "phone": "N/A",
+    "website": "https://spiritfit.ru/clubs/metro-marina-roshcha/",
+    "rating": "N/A"
+  },
+  {
+    "name": "Spirit Fitness Каширский",
+    "address": "Каширское ш., д. 80, ТЦ \"Борисовский\"",
+    "phone": "N/A",
+    "website": "https://spiritfit.ru/clubs/kashirskiy/",
+    "rating": "N/A"
+  },
+  {
+    "name": "Spirit Fitness Ясенево",
+    "address": "Ясногорская ул., 7А, ТЦ \"Этажи\", 3-й этаж, м. Ясенево",
+    "phone": "N/A",
+    "website": "https://spiritfit.ru/clubs/metro-yasenevo/",
+    "rating": "N/A"
+  },
+  {
+    "name": "Spirit Fitness Шукинская",
+    "address": "ул. Авиационная, д. 66, этаж 2, м. Шукинская",
+    "phone": "N/A",
+    "website": "https://spiritfit.ru/clubs/metro-shukinskaya/",
+    "rating": "N/A"
+  },
+  {
+    "name": "Spirit Fitness Крылатское",
+    "address": "Осенний б-р, 12, ТЦ Крылатский, м. Крылатское",
+    "phone": "N/A",
+    "website": "https://spiritfit.ru/clubs/metro-br-krylatskoe-/",
+    "rating": "N/A"
+  },
+  {
+    "name": "Spirit Fitness Рязанский",
+    "address": "Рязанский проспект, 30, к. 2, 4-й этаж",
+    "phone": "N/A",
+    "website": "https://spiritfit.ru/clubs/ryazanskiy-pr-t/",
+    "rating": "N/A"
+  },
+  {
+    "name": "Spirit Fitness Дежнева",
+    "address": "пр-д Дежнева, 23 ТЦ «Вавилон - 92», 1 эт.",
+    "phone": "N/A",
+    "website": "https://spiritfit.ru/clubs/prd-dezhneva/",
+    "rating": "N/A"
+  },
+  {
+    "name": "Spirit Fitness Крымская",
+    "address": "Большая Черемушкинская ул., д. 1 ТРЦ «РИО» Севастопольский, 3-й этаж",
+    "phone": "N/A",
+    "website": "https://spiritfit.ru/clubs/metro-krymskaya/",
+    "rating": "N/A"
+  },
+  {
+    "name": "Spirit Fitness Марьино",
+    "address": "Люблинская улица, 169 к2, ТРЦ \"Мариэль\", 4 этаж, м. Марьино",
+    "phone": "N/A",
+    "website": "https://spiritfit.ru/clubs/metro-marino/",
+    "rating": "N/A"
+  },
+  {
+    "name": "Spirit Fitness Раменки",
+    "address": "Мичуринский пр., д. 27, ТЦ «Тиара», 3-й этаж, м. Раменки",
+    "phone": "N/A",
+    "website": "https://spiritfit.ru/clubs/metro-ramenki/",
+    "rating": "N/A"
+  },
+  {
+    "name": "Spirit Fitness Семеновская",
+    "address": "Семёновская площадь, д. 1, ТЦ \"Семеновский\", 5-й этаж, м. Семеновская",
+    "phone": "N/A",
+    "website": "https://spiritfit.ru/clubs/metro-semenovskaya/",
+    "rating": "N/A"
+  },
+  {
+    "name": "Spirit Fitness Строгино",
+    "address": "Cтрогинский бул., д. 1, ТЦ \"Дарья\", 4-й этаж, м. Строгино",
+    "phone": "N/A",
+    "website": "https://spiritfit.ru/clubs/skoro-br-metro-strogino/",
+    "rating": "N/A"
+  },
+  {
+    "name": "DDX Fitness Авиапарк",
+    "address": "Москва, Ходынский бульвар, 4, ТЦ «Авиапарк», этаж 3",
+    "phone": "N/A",
+    "website": "https://www.ddxfitness.ru/clubs/ddx-aviapark/",
+    "rating": "N/A"
+  },
+  {
+    "name": "DDX Fitness Алтуфьево Марс",
+    "address": "Москва, ул. Инженерная, 1, ТЦ «Марс»",
+    "phone": "N/A",
+    "website": "https://www.ddxfitness.ru/clubs/ddx-altufevo-mars/",
+    "rating": "N/A"
+  },
+  {
+    "name": "DDX Fitness Алтуфьевская Весна",
+    "address": "Москва, Алтуфьевское шоссе, 1-й километр, вл3с1, ТРЦ «Весна»",
+    "phone": "N/A",
+    "website": "https://www.ddxfitness.ru/clubs/ddx-altufevskaya-vesna/",
+    "rating": "N/A"
+  },
+  {
+    "name": "DDX Fitness Аэропорт",
+    "address": "Москва, ул. Усиевича, 12/14, РЦ \"Место встречи Баку\", этаж 4",
+    "phone": "N/A",
+    "website": "https://www.ddxfitness.ru/clubs/ddx-aeroport/",
+    "rating": "N/A"
+  },
+  {
+    "name": "DDX Fitness Бабушкинская Орион",
+    "address": "Москва, ул. Летчика Бабушкина, 26, ТЦ «ОРИОН», этаж 1",
+    "phone": "N/A",
+    "website": "https://www.ddxfitness.ru/clubs/ddx-babushkinskaya-orion/",
+    "rating": "N/A"
+  },
+  {
+    "name": "DDX Fitness Беляево",
+    "address": "Москва, ул. Миклухо-Маклая 36А, ТЦ «МЦ», этаж -1",
+    "phone": "N/A",
+    "website": "https://www.ddxfitness.ru/clubs/ddx-belyaevo/",
+    "rating": "N/A"
+  },
+  {
+    "name": "DDX Fitness Бибирево Будапешт",
+    "address": "Москва, ул. Лескова, 14, ТЦ «Будапешт», этаж -1",
+    "phone": "N/A",
+    "website": "https://www.ddxfitness.ru/clubs/ddx-bibirevo-budapesht/",
+    "rating": "N/A"
+  },
+  {
+    "name": "DDX Fitness Бирюлево Бирюсинка",
+    "address": "Москва, ул. Булатниковская, 9А, ТЦ «Бирюсинка», этаж 3",
+    "phone": "N/A",
+    "website": "https://www.ddxfitness.ru/clubs/ddx-biryulevo-biryusinka/",
+    "rating": "N/A"
+  },
+  {
+    "name": "DDX Fitness Бирюлево Восточное Среда",
+    "address": "Москва, ул. Элеваторная, 1Ас2, ТЦ «Среда.Царицыно», этаж 2",
+    "phone": "N/A",
+    "website": "https://www.ddxfitness.ru/clubs/ddx-biryulevo-vostochnoe-sreda/",
+    "rating": "N/A"
+  },
+  {
+    "name": "DDX Fitness Братеево Браво",
+    "address": "Москва, ул. Борисовские Пруды, 26 стр. 2, ТЦ «БраVo!», этаж 2",
+    "phone": "N/A",
+    "website": "https://www.ddxfitness.ru/clubs/ddx-brateevo-bravo/",
+    "rating": "N/A"
+  },
+  {
+    "name": "DDX Fitness Братиславская Люблю Молл",
+    "address": "Москва, ул. Люблинская, 153, ТЦ «Люблю Молл», этаж 4",
+    "phone": "N/A",
+    "website": "https://www.ddxfitness.ru/clubs/ddx-bratislavskaya/",
+    "rating": "N/A"
+  },
+  {
+    "name": "DDX Fitness Бульвар Яна Райниса",
+    "address": "Москва, Бульвар Яна Райниса, 41",
+    "phone": "N/A",
+    "website": "https://www.ddxfitness.ru/clubs/ddx-bulvar-yana-rajnisa/",
+    "rating": "N/A"
+  },
+  {
+    "name": "DDX Fitness Бутово",
+    "address": "Москва, ул. Поляны, 8, ТЦ «ВиВа», этаж 2",
+    "phone": "+7 (495) 255-50-00",
+    "website": "https://www.ddxfitness.ru/clubs/ddx-butovo/",
+    "rating": "80"
+  },
+  {
+    "name": "DDX Fitness Варшавская Ангара",
+    "address": "Москва, Чонгарский бульвар, 7, ТЦ «Ангара», этаж 2",
+    "phone": "N/A",
+    "website": "https://www.ddxfitness.ru/clubs/ddx-varshavskaya-angara/",
+    "rating": "N/A"
+  },
+  {
+    "name": "DDX Fitness Вешняки",
+    "address": "Москва, ул. Вешняковская, 18, ТЦ «Вешняки», этаж 6",
+    "phone": "N/A",
+    "website": "https://www.ddxfitness.ru/clubs/ddx-veshnyaki/",
+    "rating": "N/A"
+  },
+  {
+    "name": "DDX Fitness Водный Стадион",
+    "address": "Москва, Кронштадтский бульвар, 3А, ТЦ «Гавань», этаж 5",
+    "phone": "N/A",
+    "website": "https://www.ddxfitness.ru/clubs/ddx-vodnyy-stadion/",
+    "rating": "N/A"
+  },
+  {
+    "name": "DDX Fitness Домодедовская",
+    "address": "Москва, Ореховый бульвар, 14 к1А",
+    "phone": "N/A",
+    "website": "https://www.ddxfitness.ru/clubs/ddx-domodedovskaya/",
+    "rating": "N/A"
+  },
+  {
+    "name": "DDX Fitness Жулебино",
+    "address": "Москва, ул. Авиаконструктора Миля, 3А, Фудмол «Привоз», этаж 2",
+    "phone": "N/A",
+    "website": "https://www.ddxfitness.ru/clubs/ddx-zhulebino/",
+    "rating": "N/A"
+  },
+  {
+    "name": "DDX Fitness Ивановское Ассортида",
+    "address": "Москва, ул. Прокатная, 2",
+    "phone": "N/A",
+    "website": "https://www.ddxfitness.ru/clubs/ddx-ivanovskoe-assortida/",
+    "rating": "N/A"
+  },
+  {
+    "name": "DDX Fitness Кантемировская",
+    "address": "Москва, ул. Кантемировская, 47, ТЦ «Кантемировский», этаж 2",
+    "phone": "N/A",
+    "website": "https://www.ddxfitness.ru/clubs/ddx-kantemirovskaya/",
+    "rating": "N/A"
+  },
+  {
+    "name": "DDX Fitness Коломенская Орбита",
+    "address": "Москва, проспект Андропова, 27, РЦ «Орбита», этаж 3",
+    "phone": "N/A",
+    "website": "https://www.ddxfitness.ru/clubs/ddx-kolomenskaya-orbita/",
+    "rating": "N/A"
+  },
+  {
+    "name": "DDX Fitness Коньково",
+    "address": "Москва, ул. Профсоюзная 126 корп. 2, ТК «Коньково», этаж 2",
+    "phone": "N/A",
+    "website": "https://www.ddxfitness.ru/clubs/ddx-konkovo/",
+    "rating": "N/A"
+  },
+  {
+    "name": "DDX Fitness Красносельская",
+    "address": "Москва, ул. Краснопрудная, 15, ТЦ «Краснопрудный», этаж 2-3",
+    "phone": "N/A",
+    "website": "https://www.ddxfitness.ru/clubs/ddx-krasnoselskaya/",
+    "rating": "N/A"
+  },
+  {
+    "name": "DDX Fitness Кузьминки",
+    "address": "Москва, ул. Маршала Чуйкова, 3, ТЦ «Кузьминки», этаж 4",
+    "phone": "N/A",
+    "website": "https://www.ddxfitness.ru/clubs/ddx-kuzminki/",
+    "rating": "N/A"
+  },
+  {
+    "name": "DDX Fitness Лефортово Город",
+    "address": "Москва, ш. Энтузиастов, 12 к.2, ТЦ «Город», 4 этаж",
+    "phone": "N/A",
+    "website": "https://www.ddxfitness.ru/clubs/ddx-lefortovo/",
+    "rating": "N/A"
+  },
+  {
+    "name": "DDX Fitness Марьино Экран",
+    "address": "Москва, Новочеркасский бульвар, 21А, РЦ «Экран», этаж -1",
+    "phone": "N/A",
+    "website": "https://www.ddxfitness.ru/clubs/ddx-marino-ekran/",
+    "rating": "N/A"
+  },
+  {
+    "name": "DDX Fitness Матвеевское Планета",
+    "address": "Москва, Нежинская улица, 11, ТЦ «Планета», 2 этаж",
+    "phone": "N/A",
+    "website": "https://www.ddxfitness.ru/clubs/ddx-matveevskoe-planeta/",
+    "rating": "N/A"
+  },
+  {
+    "name": "DDX Fitness Митино",
+    "address": "Москва, ул. Дубравная 51 стр. 1, ТЦ «Митино Парк», этаж 2",
+    "phone": "N/A",
+    "website": "https://www.ddxfitness.ru/clubs/ddx-mitino/",
+    "rating": "N/A"
+  },
+  {
+    "name": "DDX Fitness Мозаика",
+    "address": "Москва, ул. 7-я Кожуховская, 9, ТРЦ «Мозаика», этаж 3",
+    "phone": "N/A",
+    "website": "https://www.ddxfitness.ru/clubs/ddx-mozaika/",
+    "rating": "N/A"
+  },
+  {
+    "name": "DDX Fitness Москворечье",
+    "address": "Москва, Каширское шоссе, 26, ТЦ «Москворечье», этаж 2",
+    "phone": "N/A",
+    "website": "https://www.ddxfitness.ru/clubs/ddx-moskvoreche/",
+    "rating": "N/A"
+  },
+  {
+    "name": "DDX Fitness Нахимовский Проспект",
+    "address": "Москва, Нахимовский проспект, 31к3",
+    "phone": "N/A",
+    "website": "https://www.ddxfitness.ru/clubs/ddx-nahimovskij-prospekt/",
+    "rating": "N/A"
+  },
+  {
+    "name": "DDX Fitness Некрасовка Атлант",
+    "address": "Москва, ул. Рождественская, 11, ТЦ «Атлант», этаж 2",
+    "phone": "N/A",
+    "website": "https://www.ddxfitness.ru/clubs/ddx-nekrasovka-atlant/",
+    "rating": "N/A"
+  },
+  {
+    "name": "DDX Fitness Новогиреево Киргизия",
+    "address": "Москва, проспект Зелёный, 81, РЦ «Киргизия», этаж 3",
+    "phone": "N/A",
+    "website": "https://www.ddxfitness.ru/clubs/ddx-novogireevo-kirgiziya/",
+    "rating": "N/A"
+  },
+  {
+    "name": "DDX Fitness Новокузнецкая Аркадия",
+    "address": "Москва, Большой Овчинниковский пер., 16, ТЦ «Аркадия», этаж 3",
+    "phone": "N/A",
+    "website": "https://www.ddxfitness.ru/clubs/ddx-novokuznetskaya/",
+    "rating": "N/A"
+  },
+  {
+    "name": "DDX Fitness Новые Ватутинки",
+    "address": "Москва, пр-кт Нововатутинский, 6, ТЦ «Лайнер», этаж 2",
+    "phone": "N/A",
+    "website": "https://www.ddxfitness.ru/clubs/ddx-novye-vatutinki/",
+    "rating": "N/A"
+  },
+  {
+    "name": "DDX Fitness Новый Арбат",
+    "address": "Москва, ул. Новый Арбат, 11с1, ТЦ «Новоарбатский», этаж -2",
+    "phone": "N/A",
+    "website": "https://www.ddxfitness.ru/clubs/ddx-novyj-arbat/",
+    "rating": "N/A"
+  },
+  {
+    "name": "DDX Fitness Озерная",
+    "address": "Москва, ул. Озёрная, 33 корп. 2, ТЦ «Кувшинка», этаж 4",
+    "phone": "N/A",
+    "website": "https://www.ddxfitness.ru/clubs/ddx-ozernaya/",
+    "rating": "N/A"
+  },
+  {
+    "name": "DDX Fitness Отрадное Байконур",
+    "address": "Москва, ул. Декабристов, 17, ТЦ «Место встречи Байконур», этаж 2",
+    "phone": "N/A",
+    "website": "https://www.ddxfitness.ru/clubs/ddx-otradnoe-baykonur/",
+    "rating": "N/A"
+  },
+  {
+    "name": "DDX Fitness Парк Сокольники",
+    "address": "Москва, ул. Сокольнический Вал, 1Б, Ледовый дворец «Сокольники», этаж 2",
+    "phone": "N/A",
+    "website": "https://www.ddxfitness.ru/clubs/ddx-park-sokolniki/",
+    "rating": "N/A"
+  },
+  {
+    "name": "DDX Fitness Патриот",
+    "address": "Москва, Саляма Адиля, 4, РЦ \"Патриот, -1 этаж",
+    "phone": "N/A",
+    "website": "https://www.ddxfitness.ru/clubs/ddx-patriot/",
+    "rating": "N/A"
+  },
+  {
+    "name": "DDX Fitness Первомайский",
+    "address": "Москва, ул. Первомайская, 93/20, ТЦ «Место встречи Первомайский», этаж 2",
+    "phone": "N/A",
+    "website": "https://www.ddxfitness.ru/clubs/ddx-pervomayskiy/",
+    "rating": "N/A"
+  },
+  {
+    "name": "DDX Fitness Полежаевская",
+    "address": "Москва, Хорошёвское шоссе, 27, ТРЦ «Хорошо!», этаж 4",
+    "phone": "N/A",
+    "website": "https://www.ddxfitness.ru/clubs/ddx-polezhaevskaya/",
+    "rating": "N/A"
+  },
+  {
+    "name": "DDX Fitness Преображенское Янтарь",
+    "address": "Москва, Открытое шоссе, 4 стр. 1, РЦ «Янтарь», этаж 3",
+    "phone": "N/A",
+    "website": "https://www.ddxfitness.ru/clubs/ddx-preobrazhenskoe-yantar/",
+    "rating": "N/A"
+  },
+  {
+    "name": "DDX Fitness Ростокино",
+    "address": "Москва, проспект Мира, 211 корп. 2, ТРК «Европолис», этаж -1",
+    "phone": "N/A",
+    "website": "https://www.ddxfitness.ru/clubs/ddx-rostokino/",
+    "rating": "N/A"
+  },
+  {
+    "name": "DDX Fitness Румянцево",
+    "address": "Москва, Киевское шоссе, 23-й километр, 8с1, ТЦ «Family Room», этаж 3",
+    "phone": "N/A",
+    "website": "https://www.ddxfitness.ru/clubs/ddx-rumyancevo/",
+    "rating": "N/A"
+  },
+  {
+    "name": "DDX Fitness Саларис",
+    "address": "Москва, поселение Московский, Киевское шоссе, 23-й километр, 1, ТЦ «Саларис», этаж 2",
+    "phone": "N/A",
+    "website": "https://www.ddxfitness.ru/clubs/ddx-salaris/",
+    "rating": "N/A"
+  },
+  {
+    "name": "DDX Fitness Северное Сияние",
+    "address": "Москва, б-р Дмитрия Донского, 1, ТЦ «Северное Сияние», этаж 3",
+    "phone": "N/A",
+    "website": "https://www.ddxfitness.ru/clubs/ddx-severnoe-siyanie/",
+    "rating": "N/A"
+  },
+  {
+    "name": "DDX Fitness Солнцево Небо",
+    "address": "Москва, ул. Авиаторов, 3Б, ТЦ «Небо», здание ОДЦ, 3 этаж",
+    "phone": "N/A",
+    "website": "https://www.ddxfitness.ru/clubs/ddx-solntsevo-nebo/",
+    "rating": "N/A"
+  },
+  {
+    "name": "DDX Fitness София",
+    "address": "Москва, Сиреневый бульвар, 31, РЦ «София», этаж 3",
+    "phone": "N/A",
+    "website": "https://www.ddxfitness.ru/clubs/ddx-sofiya/",
+    "rating": "N/A"
+  },
+  {
+    "name": "DDX Fitness Страстной",
+    "address": "Москва, Страстной бульвар, 10с1, ЖК «На Страстном бульваре»",
+    "phone": "N/A",
+    "website": "https://www.ddxfitness.ru/clubs/ddx-strastnoy/",
+    "rating": "N/A"
+  },
+  {
+    "name": "DDX Fitness Сходненская",
+    "address": "Москва, ул. Сходненская, 56, ТЦ «Калейдоскоп»",
+    "phone": "N/A",
+    "website": "https://www.ddxfitness.ru/clubs/ddx-skhodnenskaya/",
+    "rating": "N/A"
+  },
+  {
+    "name": "DDX Fitness Технопарк",
+    "address": "Москва, Проспект Андропова, 10, БЦ \"Технопарк Плаза\", этаж 1",
+    "phone": "N/A",
+    "website": "https://www.ddxfitness.ru/clubs/ddx-tekhnopark/",
+    "rating": "N/A"
+  },
+  {
+    "name": "DDX Fitness Чертановская Авентура",
+    "address": "Москва, Микрорайон Северное Чертаново, 1А, ТРЦ «Авентура», 2 этаж",
+    "phone": "N/A",
+    "website": "https://www.ddxfitness.ru/clubs/ddx-chertanovo-aventura/",
+    "rating": "N/A"
+  },
+  {
+    "name": "DDX Fitness Шаболовка Алмаз",
+    "address": "Москва, ул. Шаболовка 56",
+    "phone": "N/A",
+    "website": "https://www.ddxfitness.ru/clubs/ddx-shabolovka-almaz/",
+    "rating": "N/A"
+  },
+  {
+    "name": "DDX Fitness Шелепиха",
+    "address": "Москва, Причальный проезд, 10 к.2, ТЦ Причальный, этаж -2",
+    "phone": "N/A",
+    "website": "https://www.ddxfitness.ru/clubs/ddx-shelepiha/",
+    "rating": "N/A"
+  },
+  {
+    "name": "DDX Fitness Щука",
+    "address": "Москва, ул. Щукинская 42, ТРК «Щука», этаж 5",
+    "phone": "N/A",
+    "website": "https://www.ddxfitness.ru/clubs/ddx-shchuka/",
+    "rating": "N/A"
+  },
+  {
+    "name": "DDX Fitness Ясенево",
+    "address": "Москва, пр-кт Новоясеневский, 11, ТЦ «FORT», этаж 2",
+    "phone": "N/A",
+    "website": "https://www.ddxfitness.ru/clubs/ddx-yasenevo/",
+    "rating": "N/A"
+  },
+  {
+    "name": "Фитнес-клуб СССР (Алексеевская)",
+    "address": "ул. Новоалексеевская, д.25, район Алексеевский",
+    "phone": "+7 (495) 223-38-51",
+    "website": "https://sportgyms.ru/moscow/6411-sssr-alekseevskaya.html",
+    "rating": "60"
+  },
+  {
+    "name": "Плавательный бассейн Баланс",
+    "address": "Алтуфьевское шоссе, д.104, район Бибирево",
+    "phone": "+7 (499) 909-18-41",
+    "website": "https://sportgyms.ru/moscow/11681-basseyn-balance.html",
+    "rating": "80"
+  },
+  {
+    "name": "Плавательный бассейн Медведково",
+    "address": "ул. Заповедная, д.1, район Южное Медведково",
+    "phone": "+7 (499) 790-30-77",
+    "website": "https://sportgyms.ru/moscow/7665-basseyn-medvedkovo.html",
+    "rating": "80"
+  },
+  {
+    "name": "Спортивно-адаптивная школа",
+    "address": "ул. Корнейчука, д.28к2, район Бибирево",
+    "phone": "+7 (495) 707-05-83",
+    "website": "https://sportgyms.ru/moscow/7703-sash-mossport.html",
+    "rating": "60"
+  },
+  {
+    "name": "Плавательный бассейн Стальной",
+    "address": "ул. Павла Корчагина, д.7/1, район Алексеевский",
+    "phone": "+7 (499) 444-14-78",
+    "website": "https://sportgyms.ru/moscow/13351-stalnoy.html",
+    "rating": "80"
+  },
+  {
+    "name": "Плавательный бассейн Марфино",
+    "address": "ул. Большая Марфинская, д.1, район Марфино",
+    "phone": "+7 (495) 619-99-12",
+    "website": "https://sportgyms.ru/moscow/77-basseyn-marfino.html",
+    "rating": "80"
+  },
+  {
+    "name": "Плавательный бассейн МГУСиТ",
+    "address": "ул. Лескова, д.25а, район СВАО",
+    "phone": "+7 (495) 707-05-51, +7 (495) 198-78-50",
+    "website": "https://sportgyms.ru/moscow/11090-mgusit.html",
+    "rating": "80"
+  },
+  {
+    "name": "Фитнес-клуб Облака (Шокальского)",
+    "address": "проезд Шокальского, д.9, район Южное Медведково",
+    "phone": "+7 (495) 120-67-99",
+    "website": "https://sportgyms.ru/moscow/9001-oblaka-shokalskogo.html",
+    "rating": "60"
+  },
+  {
+    "name": "Фитнес-клуб Голден (Медведково)",
+    "address": "ул. Широкая, д.30, район Северное Медведково",
+    "phone": "+7 (495) 150-37-17",
+    "website": "https://sportgyms.ru/moscow/6645-zebra-medvedkovo.html",
+    "rating": "60"
+  },
+  {
+    "name": "Плавательный бассейн Алтуфьевский",
+    "address": "ул. Инженерная, д.5, к.1, район Алтуфьевский",
+    "phone": "+7 (499) 900-90-18, +7 (499) 900-98-63",
+    "website": "https://sportgyms.ru/moscow/7693-basseyn-altufevskiy.html",
+    "rating": "60"
+  },
+  {
+    "name": "Фитнес-клуб X-Fit (Планета)",
+    "address": "Алтуфьевское шоссе, д.70, к.2, район Бибирево",
+    "phone": "+7 (495) 241-86-35",
+    "website": "https://sportgyms.ru/moscow/4381-x-fit-planeta.html",
+    "rating": "80"
+  },
+  {
+    "name": "Фитнес-клуб SELF Club",
+    "address": "ул. Верхоянская, д.9, район Бабушкинский",
+    "phone": "+7 (495) 780-00-08",
+    "website": "https://sportgyms.ru/moscow/180-self-club.html",
+    "rating": "60"
+  },
+  {
+    "name": "Академия современного пятиборья",
+    "address": "ул. 9-я Северная линия, д.1Б, район Северный",
+    "phone": "+7 (499) 767-75-83, +7 (499) 767-60-54",
+    "website": "https://sportgyms.ru/moscow/7697-masp.html",
+    "rating": "60"
+  },
+  {
+    "name": "Фитнес-клуб Голден (Алтуфьево)",
+    "address": "Алтуфьевское шоссе, д.18а, район Отрадное",
+    "phone": "+7(499) 430-06-69",
+    "website": "https://sportgyms.ru/moscow/128-zebra-altufievo.html",
+    "rating": "80"
+  },
+  {
+    "name": "Фитнес-клуб YoBody Fitness (Изумруд)",
+    "address": "ул. Пришвина, д.3г, район Бибирево",
+    "phone": "+7 (495) 773-33-85, +7 (916) 064-95-77",
+    "website": "https://sportgyms.ru/moscow/7132-yobody-fitness-izumrud.html",
+    "rating": "60"
+  },
+  {
+    "name": "Плавательный бассейн МГСУ",
+    "address": "Ярославское шоссе, д.26, стр.16, район Ярославский",
+    "phone": "+7 (499) 929-50-10",
+    "website": "https://sportgyms.ru/moscow/8122-basseyn-mgsu.html",
+    "rating": "80"
+  },
+  {
+    "name": "Фитнес-клуб X-Fit (Алтуфьево)",
+    "address": "ул. Угличская, д.13, район Лианозово",
+    "phone": "+7 (499) 682-72-66",
+    "website": "https://sportgyms.ru/moscow/149-x-fit-altufevo.html",
+    "rating": "80"
+  },
+  {
+    "name": "Фитнес-клуб СССР (Бутово Парк)",
+    "address": "ЖК Бутово Парк, д.22, район Северное Бутово",
+    "phone": "+7 (495) 153-40-93, +7 (495) 120-10-36",
+    "website": "https://sportgyms.ru/moscow/7315-sssr-butovo-park.html",
+    "rating": "60"
+  },
+  {
+    "name": "Фитнес-клуб Пирамида",
+    "address": "ул. Дмитрия Ульянова, д.31, район Академический",
+    "phone": "+7 (495) 128-89-69",
+    "website": "https://sportgyms.ru/moscow/8348-piramida.html",
+    "rating": "60"
+  },
+  {
+    "name": "Фитнес-клуб ProFit",
+    "address": "ул. Профсоюзная, д.76, район Обручевский",
+    "phone": "+7 (495) 150-66-76",
+    "website": "https://sportgyms.ru/moscow/7649-profit-kaluzhskaya.html",
+    "rating": "60"
+  },
+  {
+    "name": "Фитнес-клуб СССР (Бутово Молл)",
+    "address": "Чечёрский проезд, д.51, район Южное Бутово",
+    "phone": "+7 (495) 120-25-87, +7 (495) 127-83-47",
+    "website": "https://sportgyms.ru/moscow/7877-sssr-butovo-moll.html",
+    "rating": "80"
+  },
+  {
+    "name": "Фитнес-клуб DDX Fitness (Аквамолл)",
+    "address": "ул. Южнобутовская, д.2, район Южное Бутово",
+    "phone": "+7 (495) 032-74-64",
+    "website": "https://sportgyms.ru/moscow/11528-ddx-fitness-aquamall.html",
+    "rating": "100"
+  },
+  {
+    "name": "Фитнес-клуб X-Fit (Южный Лёд)",
+    "address": "ул. Маршала Савицкого, д.7, район Южное Бутово",
+    "phone": "+7 (499) 650-71-71",
+    "website": "https://sportgyms.ru/moscow/7559-x-fit-south-arena.html",
+    "rating": "60"
+  },
+  {
+    "name": "Фитнес-клуб Голден (Бутово)",
+    "address": "ул. Венёвская, д.6, район Южное Бутово",
+    "phone": "+7 (495) 669-12-12, +7 (495) 669-13-12",
+    "website": "https://sportgyms.ru/moscow/118-zebra-butovo.html",
+    "rating": "80"
+  },
+  {
+    "name": "Фитнес-клуб Gym-Gym (Беляево)",
+    "address": "ул. Профсоюзная, д.104, район Коньково",
+    "phone": "+7 (495)183-55-08",
+    "website": "https://sportgyms.ru/moscow/7292-gym-gym-belyaevo.html",
+    "rating": "60"
+  },
+  {
+    "name": "Фитнес-клуб Escalada",
+    "address": "ул. Губкина, д.6, к.1, район Гагаринский",
+    "phone": "+7 (495) 637-81-81",
+    "website": "https://sportgyms.ru/moscow/7505-escalada.html",
+    "rating": "60"
+  },
+  {
+    "name": "Плавательный бассейн Максимум",
+    "address": "ул. Остафьевская, д.21, район Южное Бутово",
+    "phone": "+7 (499) 444-14-78 (доб. 6310)",
+    "website": "https://sportgyms.ru/moscow/13476-maximum.html",
+    "rating": "100"
+  },
+  {
+    "name": "Плавательный бассейн Южное Бутово",
+    "address": "ул. Поляны, д.35, район Южное Бутово",
+    "phone": "+7 (495) 716-40-27",
+    "website": "https://sportgyms.ru/moscow/8354-fok-yuzhnoe-butovo.html",
+    "rating": "60"
+  },
+  {
+    "name": "Плавательный бассейн Гармония",
+    "address": "ул. Саморы Машела, д.6, к.4, район Обручевский",
+    "phone": "+7 (499) 444-14-78 (доб. 5750)",
+    "website": "https://sportgyms.ru/moscow/550-basseyn-garmonia.html",
+    "rating": "100"
+  },
+  {
+    "name": "Плавательный бассейн Изумрудный",
+    "address": "ул. Южнобутовская, д.96, район Южное Бутово",
+    "phone": "+7 (499) 444-14-78 (доб. 5790)",
+    "website": "https://sportgyms.ru/moscow/552-fok-izumrydny.html",
+    "rating": "80"
+  },
+  {
+    "name": "Плавательный бассейн Надежда",
+    "address": "ул. Крупской, д.1, к.1, район Ломоносовский",
+    "phone": "+7 (499) 444-14-78 (доб. 5800)",
+    "website": "https://sportgyms.ru/moscow/7694-fok-nadezhda.html",
+    "rating": "80"
+  },
+  {
+    "name": "Плавательный бассейн МИСиС",
+    "address": "ул. Профсоюзная, д.83Б, район Коньково",
+    "phone": "+7 (495) 333-01-02",
+    "website": "https://sportgyms.ru/moscow/8397-misis.html",
+    "rating": "60"
+  },
+  {
+    "name": "Фитнес-клуб Территория Фитнеса (Южное Бутово)",
+    "address": "ул. Академика Понтрягина, д.14, район Южное Бутово",
+    "phone": "+7 (495) 172-72-73, +7 (499) 302-04-38",
+    "website": "https://sportgyms.ru/moscow/8053-terfit-yuzhnoe-butovo.html",
+    "rating": "60"
+  }
+]

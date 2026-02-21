@@ -41,16 +41,23 @@
 
 ## Проекты
 
-### Wall of Love (walloflove)
-- **Статус:** MVP в разработке (2026-02-18)
+### GeoReview (georeview.ru, бывший Wall of Love)
+- **Статус:** MVP задеплоен, дашборд доработан, лидогенерация запущена (2026-02-20)
+- **Домен:** georeview.ru, SSL до 2026-05-20
+- **Сервер:** 89.169.2.143 (Timeweb VDS), root / `vgz^4hkW#jWM-5`
 - **Концепция:** Парсит отзывы с Яндекс Карт и 2ГИС → красивый виджет для вставки на сайт клиента
 - **НЕ формы сбора!** Кирилл чётко это обозначил
 - Путь: `/Users/karavan/Developer/walloflove/`
 - Стек: Rails 7.2, Ruby 3.3.7 (rbenv), PostgreSQL 16, Tailwind, Playwright (скрейпинг)
-- Демо: `demo@walloflove.ru` / `password123`, порт 4000
-- Яндекс парсинг работает, 2ГИС нужен residential proxy
-- Embed-виджет: Shadow DOM, карусель, premium дизайн
+- Синхронизация: оба скрейпера (Yandex+2GIS) запускаются одновременно
+- 2ГИС API: `public-api.reviews.2gis.com`, ключ `37c04fe6-a560-4549-b459-02309cf643ad`
+- Яндекс: stealth Playwright + xvfb, парсит рейтинг и кол-во оценок со страницы
 - Субагенты: только `model: "opus"` (sonnet-4-6 не работает)
+- **Лиды Краснодар:** Google Sheets `1Idp3pOo50cZqFPUhBniq8GWd0PbuY4ZOkgMfrmdENbc`, данные `fitness_leads.json`
+- **Лиды Москва:** Google Sheets `11uaaUtRlLhoqds67ZaOFLaXjPCNexSUv3IcFiq4TLjY`, 166 клубов, данные `fitness_moscow.json`
+- **gog:** kirillpogorelyy20@gmail.com, sheets авторизован, gmail ждёт OAuth
+- **Админка:** `/dashboard/admin/users`, role+can_embed, блюр кода для юзеров без доступа
+- **Turbo + JS урок:** inline/body scripts не работают с Turbo — использовать чистые HTML forms с `data-turbo="false"` или внешние JS в `<head>` с defer
 
 ### Beflora (beflora.ru)
 - **Статус:** Мигрирован на Timeweb (2026-02-15), ждёт переключения DNS

@@ -59,4 +59,12 @@ Skills are shared. Your setup is yours. Keeping them apart means you can update 
 
 ---
 
+### Email (GeoReview)
+- Корпоративная почта: geo@georeview.ru
+- SMTP: smtp.timeweb.ru:465 (SSL), пароль: :ywF>K%wD5kkQS
+- Отправка только через сервер 89.169.2.143 (с локалки порты закрыты)
+- Gmail: kirillpogorelyy20@gmail.com (gog, первая рассылка ушла отсюда)
+
+---
+
 Add whatever helps you do your job. This is your cheat sheet.
