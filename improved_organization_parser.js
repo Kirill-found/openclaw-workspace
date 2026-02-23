@@ -90,12 +90,64 @@ class ImprovedOrganizationParser {
             const searchQuery = `${this.options.niche} ${this.options.city}`;
             console.log(`🔍 Поиск: "${searchQuery}"`);
             
-            const searchInput = await page.waitForSelector('input[placeholder*="Найти"], .search-form-input__input', { timeout: 15000 });
+            // Обновленные селекторы для поиска в Яндекс.Картах 2024
+            const searchSelectors = [
+                'input[placeholder*="Поиск"], input[placeholder*="Найти"]',
+                '.input__control, input[name="text"]',
+                '.search-form-input__input',
+                'input[data-testid="search-input"]',
+                '.serp-header__input',
+                'input[class*="search"]',
+                'input[aria-label*="Поиск"], input[aria-label*="поиск"]'
+            ];
+            
+            let searchInput = null;
+            for (const selector of searchSelectors) {
+                try {
+                    searchInput = await page.waitForSelector(selector, { timeout: 5000 });
+                    if (searchInput) {
+                        console.log(`✅ Найдено поле поиска: ${selector}`);
+                        break;
+                    }
+                } catch (e) {
+                    console.log(`❌ Селектор не сработал: ${selector}`);
+                    continue;
+                }
+            }
+            
+            if (!searchInput) {
+                throw new Error('Не удалось найти поле поиска на Яндекс.Картах');
+            }
             await searchInput.fill(searchQuery);
             await page.keyboard.press('Enter');
             
-            // Ждем результатов поиска
-            await page.waitForSelector('.search-snippet-view, .business-summary-view', { timeout: 30000 });
+            // Ждем результатов поиска - обновленные селекторы
+            const resultSelectors = [
+                '.search-snippet-view',
+                '.business-summary-view', 
+                '[class*="search-snippet"]',
+                '[class*="business-card"]',
+                '.serp-item',
+                '[data-testid*="business"]'
+            ];
+            
+            let resultsFound = false;
+            for (const selector of resultSelectors) {
+                try {
+                    await page.waitForSelector(selector, { timeout: 10000 });
+                    console.log(`✅ Результаты загружены: ${selector}`);
+                    resultsFound = true;
+                    break;
+                } catch (e) {
+                    console.log(`❌ Результаты не найдены по селектору: ${selector}`);
+                    continue;
+                }
+            }
+            
+            if (!resultsFound) {
+                throw new Error('Результаты поиска не загрузились');
+            }
+            
             await page.waitForTimeout(3000);
             
             let processedCount = 0;
@@ -103,8 +155,28 @@ class ImprovedOrganizationParser {
             let stableCount = 0;
             
             while (processedCount < this.options.maxResults && stableCount < 3) {
-                // Получаем все видимые элементы
-                const snippets = await page.$$('.search-snippet-view');
+                // Получаем все видимые элементы - обновленные селекторы
+                const snippetSelectors = [
+                    '.search-snippet-view',
+                    '.business-summary-view',
+                    '[class*="search-snippet"]', 
+                    '[class*="business-card"]',
+                    '.serp-item'
+                ];
+                
+                let snippets = [];
+                for (const selector of snippetSelectors) {
+                    try {
+                        const found = await page.$$(selector);
+                        if (found.length > 0) {
+                            snippets = found;
+                            console.log(`✅ Найдены элементы: ${found.length} по селектору ${selector}`);
+                            break;
+                        }
+                    } catch (e) {
+                        continue;
+                    }
+                }
                 console.log(`📍 Видимых элементов: ${snippets.length}`);
                 
                 if (snippets.length === previousCount) {
@@ -166,20 +238,46 @@ class ImprovedOrganizationParser {
         let website = null;
         
         try {
-            // Название (обязательное)
-            try {
-                name = await snippet.$eval('.search-business-snippet-view__title, .search-snippet-view__title, [class*="title"]', 
-                    el => el.textContent.trim());
-            } catch (e) {
+            // Название (обязательное) - расширенные селекторы
+            const titleSelectors = [
+                '.search-business-snippet-view__title',
+                '.search-snippet-view__title',
+                '[class*="title"]',
+                '[class*="name"]',
+                'h3, h2, h1',
+                '.serp-item__title',
+                '[data-testid*="title"]'
+            ];
+            
+            for (const selector of titleSelectors) {
+                try {
+                    name = await snippet.$eval(selector, el => el.textContent.trim());
+                    if (name) break;
+                } catch (e) {
+                    continue;
+                }
+            }
+            
+            if (!name) {
                 return null; // Без названия не сохраняем
             }
             
-            // Адрес
-            try {
-                address = await snippet.$eval('.search-business-snippet-view__address, [class*="address"]', 
-                    el => el.textContent.trim());
-            } catch (e) {
-                // Не критично
+            // Адрес - расширенные селекторы
+            const addressSelectors = [
+                '.search-business-snippet-view__address',
+                '[class*="address"]',
+                '.business-card__address',
+                '.serp-item__address',
+                '[data-testid*="address"]'
+            ];
+            
+            for (const selector of addressSelectors) {
+                try {
+                    address = await snippet.$eval(selector, el => el.textContent.trim());
+                    if (address) break;
+                } catch (e) {
+                    continue;
+                }
             }
             
             // Рейтинг и отзывы
