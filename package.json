@@ -1,5 +1,31 @@
 {
+  "name": "improved-organization-parser",
+  "version": "1.0.0",
+  "description": "Улучшенный парсер организаций с Яндекс.Карт и 2ГИС для лидогенерации",
+  "main": "improved_organization_parser.js",
+  "scripts": {
+    "start": "node run_parser.js",
+    "parse": "node run_parser.js",
+    "parse:dental": "node run_parser.js стоматология москва 50",
+    "parse:auto": "node run_parser.js автосервис москва 50",
+    "parse:beauty": "node run_parser.js салон_красоты москва 50"
+  },
   "dependencies": {
-    "playwright": "^1.58.2"
+    "playwright": "^1.40.0",
+    "google-spreadsheet": "^4.1.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "parser", 
+    "scraper", 
+    "yandex-maps", 
+    "2gis", 
+    "lead-generation",
+    "business-contacts"
+  ],
+  "author": "OpenClaw Agent",
+  "license": "MIT",
+  "engines": {
+    "node": ">=16.0.0"
   }
 }
