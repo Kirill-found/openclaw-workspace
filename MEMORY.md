@@ -44,20 +44,23 @@
 ### GeoReview (georeview.ru, бывший Wall of Love)
 - **Статус:** MVP задеплоен, дашборд доработан, лидогенерация запущена (2026-02-20)
 - **Домен:** georeview.ru, SSL до 2026-05-20
-- **Сервер:** 89.169.2.143 (Timeweb VDS), root / `vgz^4hkW#jWM-5`
+- **Сервер:** 89.169.2.143 (Timeweb VDS, **2GB RAM**), root / `vgz^4hkW#jWM-5`
 - **Концепция:** Парсит отзывы с Яндекс Карт и 2ГИС → красивый виджет для вставки на сайт клиента
 - **НЕ формы сбора!** Кирилл чётко это обозначил
 - Путь: `/Users/karavan/Developer/walloflove/`
 - Стек: Rails 7.2, Ruby 3.3.7 (rbenv), PostgreSQL 16, Tailwind, Playwright (скрейпинг)
-- Синхронизация: оба скрейпера (Yandex+2GIS) запускаются одновременно
-- 2ГИС API: `public-api.reviews.2gis.com`, ключ `37c04fe6-a560-4549-b459-02309cf643ad`
-- Яндекс: stealth Playwright + xvfb, парсит рейтинг и кол-во оценок со страницы
+- 2ГИС внутренний API ключ (через браузер): `c7f1a769-c8a5-4636-b14d-d8c987808a12`
 - Субагенты: только `model: "opus"` (sonnet-4-6 не работает)
-- **Лиды Краснодар:** Google Sheets `1Idp3pOo50cZqFPUhBniq8GWd0PbuY4ZOkgMfrmdENbc`, данные `fitness_leads.json`
-- **Лиды Москва:** Google Sheets `11uaaUtRlLhoqds67ZaOFLaXjPCNexSUv3IcFiq4TLjY`, 166 клубов, данные `fitness_moscow.json`
+- **Лидогенерация — пайплайн (2026-02-21):**
+  - `parse_2gis_v4.js` — парсинг организаций (клик из поиска + перехват API)
+  - `check_reviews.js` — проверка виджетов отзывов
+  - `extract_emails.js` — извлечение email с сайтов через Playwright
+  - Все скрипты на сервере в /tmp/, нужно перенести в репо
+  - **Важно:** Кирилл через VPN → Яндекс/2ГИС не открываются с мака → парсить только через сервер
+  - **Важно:** 2ГИС антибот — прямое открытие /firm/ = капча. Только клик из поиска работает
+- **Google Sheet лидов:** `1iXyCnAguSJmfGu0fFvofvHVxzIcYyQJXxdV9ys0Qyo0` (лист "Лист1"), 94 лида
 - **gog:** kirillpogorelyy20@gmail.com, sheets авторизован, gmail ждёт OAuth
 - **Админка:** `/dashboard/admin/users`, role+can_embed, блюр кода для юзеров без доступа
-- **Turbo + JS урок:** inline/body scripts не работают с Turbo — использовать чистые HTML forms с `data-turbo="false"` или внешние JS в `<head>` с defer
 
 ### Beflora (beflora.ru)
 - **Статус:** Мигрирован на Timeweb (2026-02-15), ждёт переключения DNS
