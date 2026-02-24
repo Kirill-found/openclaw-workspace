@@ -83,7 +83,7 @@ def create_email_content(clinic_name, rating, reviews_count, website, city):
         
         <!-- CTA -->
         <div style="text-align: center; margin: 32px 0;">
-            <a href="https://georeview.ru?utm_source=email&utm_campaign=vet_{city.lower()}&utm_content=cta" 
+            <a href="https://georeview.ru/click?e={clinic_name}&city={city}" 
                style="background: #3b82f6; color: white; padding: 16px 32px; text-decoration: none; border-radius: 8px; font-weight: 600; display: inline-block; font-size: 16px;">
                 🚀 Попробовать бесплатно
             </a>
@@ -134,7 +134,7 @@ GeoReview решает эту проблему за 2 минуты — инте�
 • Автообновление новых отзывов
 • Защита от спама — только проверенные отзывы
 
-Попробуйте бесплатно: https://georeview.ru
+Попробуйте бесплатно: https://georeview.ru/click?e={clinic_name}&city={city}
 
 Уже 94 клиники доверили нам свою репутацию.
 
