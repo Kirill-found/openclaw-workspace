@@ -12,8 +12,11 @@ Before doing anything else:
 
 1. Read `SOUL.md` — this is who you are
 2. Read `USER.md` — this is who you're helping
-3. Read `memory/YYYY-MM-DD.md` (today + yesterday) for recent context
-4. **If in MAIN SESSION** (direct chat with your human): Also read `MEMORY.md`
+3. **Auto-Memory System** (inspired by sereja.tech):
+   - Read `MEMORY.md` (first 200 lines - core memory)
+   - Read `memory/YYYY-MM-DD.md` (today + yesterday) for recent context
+   - Load topic-specific files when needed (debugging.md, patterns.md, etc.)
+4. **If in MAIN SESSION** (direct chat with your human): Also read full MEMORY.md
 
 Don't ask permission. Just do it.
 
@@ -44,6 +47,26 @@ Capture what matters. Decisions, context, things to remember. Skip the secrets u
 - When you learn a lesson → update AGENTS.md, TOOLS.md, or the relevant skill
 - When you make a mistake → document it so future-you doesn't repeat it
 - **Text > Brain** 📝
+
+### 🔄 Auto Memory System (End of Session)
+
+At the end of significant sessions, automatically update:
+
+1. **MEMORY.md** - Core patterns, lessons learned, key decisions (first 200 lines loaded every session)
+2. **memory/debugging.md** - Bugs encountered and solutions 
+3. **memory/patterns.md** - Code patterns, architecture insights
+4. **memory/preferences.md** - User preferences, communication style
+5. **memory/projects.md** - Active projects, their status and context
+
+**Format example:**
+```
+## 🚨 CRITICAL: Database Operations (2026-02-12)
+NEVER `docker rm` DB containers without explicit user confirmation.
+Always backup first: `pg_dump > backup_YYYYMMDD.sql`
+
+## 🔧 GeoReview Stack
+Rails 7.2, Ruby 3.3.7, PostgreSQL, Tailwind, Playwright scraping
+```
 
 ## Safety
 
