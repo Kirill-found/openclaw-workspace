@@ -59,11 +59,13 @@ Skills are shared. Your setup is yours. Keeping them apart means you can update 
 
 ---
 
-### Email (GeoReview)
-- Корпоративная почта: geo@georeview.ru
-- SMTP: smtp.timeweb.ru:465 (SSL), пароль: :ywF>K%wD5kkQS
-- Отправка только через сервер 89.169.2.143 (с локалки порты закрыты)
-- Gmail: kirillpogorelyy20@gmail.com (gog, первая рассылка ушла отсюда)
+### GeoReview Server (89.169.2.143)
+- SSH: root / vgz^4hkW#jWM-5
+- Email: geo@georeview.ru → smtp.timeweb.ru:465 (SSL), пароль: :ywF>K%wD5kkQS
+- Отправка только через сервер (с локалки порты закрыты)
+- Gmail: kirillpogorelyy20@gmail.com (gog)
+- Python3: requests, bs4, gspread, google-auth
+- ⚠️ Yell.ru блокирует этот сервер — парсить yell только локально
 
 ---
 
